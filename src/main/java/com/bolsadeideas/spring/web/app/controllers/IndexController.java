@@ -40,7 +40,7 @@ public class IndexController{
 				new Usuario("Mary","Alvarez","mary@correo.com"),
 				new Usuario("Luis","Luna","lu@correo.com"),
 				new Usuario("Martha","Cruz","mart@correo.com")
-				);
+				);  
 		
 		
 		
