@@ -48,6 +48,7 @@ public class IndexController{
 		model.addAttribute("titulo","Listado de Usuarios");
 		model.addAttribute("usuarios",usuarios);
 		return "listar";
+		//este es ejemplo
 	}
 	
 }
